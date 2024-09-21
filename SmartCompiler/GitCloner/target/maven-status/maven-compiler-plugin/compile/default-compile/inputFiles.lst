@@ -1,0 +1,6 @@
+/root/VSCODE/Projects/SmartCompiler/GitCloner/src/main/java/GitCloner/GitClonerApplication.java
+/root/VSCODE/Projects/SmartCompiler/GitCloner/src/main/java/GitCloner/controller/MainController.java
+/root/VSCODE/Projects/SmartCompiler/GitCloner/src/main/java/GitCloner/model/ClonerModel.java
+/root/VSCODE/Projects/SmartCompiler/GitCloner/src/main/java/GitCloner/service/GitCloner.java
+/root/VSCODE/Projects/SmartCompiler/GitCloner/src/main/java/GitCloner/service/GitPusher.java
+/root/VSCODE/Projects/SmartCompiler/GitCloner/src/main/java/GitCloner/service/RepoCreator.java
