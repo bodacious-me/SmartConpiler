@@ -28,7 +28,7 @@ public class GitPusher {
             String remoteUrl = "https://github.com/bodacious-me/" + gitrepo.getName() + ".git";
             String fileName = "Files.jar";
             String username = "bodacious-me";
-            String accessToken = "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";
+            String accessToken = "Your Github Token";
 
             try {
 
